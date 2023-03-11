@@ -1,2 +1,2 @@
-# multi4ptb
+# multimodal4ptb
 Fundamentals of multimodal measurements using Psychtoolbox.
